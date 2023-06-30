@@ -1,5 +1,5 @@
 # CRUD-Project
-This is a project that uses the REST API functionalities of node.js WHILE Ireactapp to consume those APIs and display on the website.
+This is a project that uses the REST API functionalities of node.js and reactapp is used to consume those APIs and display database on the website.
 
 ## Node.js <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js" style="vertical-align:top"/>
 To implement CRUD (Create, Read, Update, Delete) operations in Node.js with MySQL database, you will need to install the necessary dependencies:
